@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🌱 I’m currently developing my skills in node.js and python! :)
+- ⚡ Fun fact: I suck at making profiles.
+- 📫 How to reach me: krYe_#7640
+- 😄 Pronouns: He / They
 <!--
 **krYsiS-01/krYsiS-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
