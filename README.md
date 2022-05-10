@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hello there!
+My name is krYe, im into windows application development and just general messing around!
+#### I don't know what to call this section:
 - 🌱 I’m currently developing my skills in node.js and python! :)
+- 📫 You can reach me on discord @krYe_#7640!
+- 😄 My prefered pronouns are he/they.
 - ⚡ Fun fact: I suck at making profiles.
-- 📫 How to reach me: krYe_#7640
-- 😄 Pronouns: He / They
 <!--
 **krYsiS-01/krYsiS-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
