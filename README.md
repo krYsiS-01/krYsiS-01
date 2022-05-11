@@ -1,6 +1,6 @@
-### Hello there!
+## Hello there!
 My name is krYe, im currently interested in windows application development aswell as web development!
-### about me:
+#### About me:
 - 🌱 I’m currently developing my skills in node.js and python. 
 - 📫 You can reach me on discord @krYe_#7640!
 - ⚡ Fun fact: I suck at making profiles.
